@@ -2,7 +2,7 @@
 
 ## Overview
 
-This simple application allows user to enter the names of their favortie artists and creates a compilation playlist with tracks from this artists.
+This simple web application allows user to enter the names of their favortie artists and creates a compilation playlist with tracks from this artists.
 
 ## Programming
 
